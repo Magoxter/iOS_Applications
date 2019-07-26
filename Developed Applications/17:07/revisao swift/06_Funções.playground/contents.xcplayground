@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='Invocação de funções'/>
+        <page name='Repetição'/>
+        <page name='Um só trabalho'/>
+        <page name='Decomposição'/>
+        <page name='Funções dentro de funções'/>
+        <page name='Loops infinitos'/>
+        <page name='Como esconder a complexidade'/>
+        <page name='Uma mudança'/>
+        <page name='Encerramento'/>
+        <page name='Exercício do meme'/>
+        <page name='Meme pessoal'/>
+    </pages>
+</playground>

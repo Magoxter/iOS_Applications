@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='Mudança de cor'/>
+        <page name='Ocultar a barra lateral de resultados'/>
+        <page name='Console'/>
+        <page name='Olá'/>
+        <page name='Mensagens dos programadores'/>
+        <page name='O que dá para imprimir?'/>
+        <page name='Registro'/>
+        <page name='Encerramento'/>
+        <page name='Exercício – Depuração'/>
+        <page name='Exercício – App Console'/>
+    </pages>
+</playground>

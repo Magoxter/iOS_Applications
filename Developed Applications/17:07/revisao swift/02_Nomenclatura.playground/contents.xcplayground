@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='Problema animal'/>
+        <page name='Problema animal (recapitulação)'/>
+        <page name='Vamos dar nome aos bois'/>
+        <page name='Preenchimento automático'/>
+        <page name='Identificadores'/>
+        <page name='Bons nomes'/>
+        <page name='Papo de programador'/>
+        <page name='Encerramento'/>
+        <page name='10-Exercício Show'/>
+        <page name='11-Exercício Loteria'/>
+        <page name='12-Exercício iPhone'/>
+        <page name='13-Exercício Manhã'/>
+        <page name='14-Exercício Nomenclatura'/>
+    </pages>
+</playground>

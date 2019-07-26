@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='Caracteres'/>
+        <page name='Definição de strings'/>
+        <page name='Unicode'/>
+        <page name='Combinação de strings'/>
+        <page name='Preencha as lacunas'/>
+        <page name='Interpolação de strings'/>
+        <page name='Visualização de resultados'/>
+        <page name='Mais que strings'/>
+        <page name='Válvula de escape'/>
+        <page name='Sequências de escape'/>
+        <page name='Encerramento'/>
+        <page name='Exercício – Lista'/>
+        <page name='Exercício – Restaurante'/>
+        <page name='Exercício – Vamos ganhar!'/>
+        <page name='Exercício – Exibição de valores'/>
+    </pages>
+</playground>
